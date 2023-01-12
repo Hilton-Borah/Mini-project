@@ -1,0 +1,39 @@
+.formLogin{
+    line-height: 40px;
+    margin-top: 80px;
+    
+}
+
+.boxLogin{
+    width: 30%;
+}
+
+.flexLogin{
+    width: 85%;
+    margin: auto;
+    justify-content: space-around;
+    /* margin-top: -20px; */
+}
+
+.imageLogin{
+    width: 90%;
+    margin-left: 15%;
+}
+
+.textLogin{
+    border-bottom: 1px solid #8d8d8d;
+    padding-bottom: 10px;
+    text-align: left;
+    font-size: 30px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.buttonLogin{
+    width: 50%;
+    cursor: pointer;
+    margin-top: 20px;
+    color: white;
+    border-radius: 10px;
+    background-color: rgb(103, 103, 103);
+}

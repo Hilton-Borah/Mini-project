@@ -1,0 +1,54 @@
+.formSignup{
+    line-height: 30px;
+    margin-top: 30px;
+    
+}
+
+.boxSignup{
+    width: 30%;
+}
+
+.flexSignup{
+    width: 85%;
+    margin: auto;
+    justify-content: space-around;
+    /* margin-top: -20px; */
+}
+
+.imageSignup{
+    width: 90%;
+    /* margin-left: 15%; */
+    margin-right: 30%;
+}
+
+.textSignup{
+    border-bottom: 1px solid #8d8d8d;
+    padding-bottom: 10px;
+    text-align: left;
+    font-size: 30px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.buttonSignup{
+    width: 50%;
+    cursor: pointer;
+    margin-top: 10px;
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(103, 103, 103);
+}
+
+.selectSignup{
+    width: 100%;
+    border: 1px solid #8d8d8d;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+/* 
+.labelSignup{
+    width: 300px;
+    border: 1px solid;
+    text-align: left;
+} */
